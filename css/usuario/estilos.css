@@ -1,0 +1,35 @@
+footer{
+    text-align: center;
+}
+.inicio{
+    box-sizing: border-box;
+    padding: 5px 5px;
+    margin: 30px;
+    background-color: #AFE0E7;
+}
+.borde{
+    border: 1px solid #000;
+    border-radius: 15px;	  
+}
+.centro{
+    text-align: center;
+    margin-top: 2px;
+}
+.caja{
+    width: 60%;
+    height: 535px;
+}
+.iconoInicio{
+    width: 100px;
+    height: 100px;
+}
+.iconosInput{
+    margin-right: 5px;
+}
+.correr{
+    margin-left: 40px;
+}
+.boton{
+    text-align: center;
+    margin-top: 10px;
+}

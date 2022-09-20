@@ -1,0 +1,24 @@
+.inicio{
+    box-sizing: border-box;
+    padding: 5px 5px;
+    margin: 40px;
+   background-color: #AFE0E7;
+}
+.borde{
+    border: 1px solid #000;
+    border-radius: 15px;	  
+}
+.centro{
+    text-align: center;
+}
+.caja{
+    width: 60%;
+    height: 40%;
+}
+.iconoInicio{
+    width: 100px;
+    height: 100px;
+}
+.iconosInput{
+margin-right: 5px;
+}
