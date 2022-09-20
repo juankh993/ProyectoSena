@@ -105,7 +105,7 @@ $conn = new mysqli("localhost", "root", "", "proyectosena" ) ;
                     <tbody>
                         <tr class="odd">
                             <td class="sorting_1">CC 1045495819</td>
-                            <td>Diego Perez</td>
+                            <td>Diego Perez Gomez</td>
                             <td>diegop12</td>
                             <td>diegop@gmail.com</td>
                             <td>3120458954</td>

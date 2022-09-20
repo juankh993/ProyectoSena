@@ -41,7 +41,7 @@
                 <i class="bi bi-person-circle" style="font-size: 80px;"></i>
             </div>
             <div class="col-12 centro">
-                <label for="nombreUsuario" class="form-label ">Nombre de usuario</label>  
+                <label for="nombreUsuario" class="form-label ">Nombre de usuario - Prueba</label>  
                 <div class="input-group ">
                     <img src="img/person-fill.svg" alt="" class="iconosInput" width="30" height="30">
                     <input type="text" class="form-control" id="nombreUsuario" placeholder="Ingrese su nombre de usuario" required>
@@ -75,7 +75,7 @@
     </div>
 
     <footer class="centro">
-        <h4>Todos los derechos reservados ©</h4>
+        <h4>Todos los derechos reservados ©2022</h4>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
